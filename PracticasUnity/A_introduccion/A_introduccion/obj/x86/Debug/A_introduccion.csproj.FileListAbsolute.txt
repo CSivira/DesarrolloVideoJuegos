@@ -1,0 +1,5 @@
+C:\Users\carlos\Documents\UnityProjects\A_introduccion\A_introduccion\bin\Debug\A_introduccion.exe
+C:\Users\carlos\Documents\UnityProjects\A_introduccion\A_introduccion\bin\Debug\A_introduccion.pdb
+C:\Users\carlos\Documents\UnityProjects\A_introduccion\A_introduccion\obj\x86\Debug\A_introduccion.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Documents\UnityProjects\A_introduccion\A_introduccion\obj\x86\Debug\A_introduccion.exe
+C:\Users\carlos\Documents\UnityProjects\A_introduccion\A_introduccion\obj\x86\Debug\A_introduccion.pdb
